@@ -1,15 +1,13 @@
 # ECS Cats and Dogs
-
 Workshop link:
 https://catalog.us-east-1.prod.workshops.aws/workshops/8c9036a7-7564-434c-b558-3588754e21f5/en-US/01-intro
 
 Resources: 
 https://github.com/aws-samples/amazon-ecs-for-beginners-catsdogs
 
-Note: Since I use the AWS Free Tier version the services exposed in the following sections are susceptible to change.
+Note: Since I use the AWS Free Tier version the services exposed in the following sections were susceptible to change.
 
 ## Searching for Love and Happiness
-![catsdogs](static/images/intro/catsdogs.svg)
 This workshop is designed to educate engineers that might not be familiar with Amazon ECS, Fargate, and possibly even Docker container workflow.
 
 ## Amazon ECS
@@ -32,7 +30,7 @@ Amazon Elastic Container Service (Amazon ECS) is a **fully managed container orc
 * Amazon Application Load Balancer (ALB)
 
 ## Architecture
-![Architecture](static/images/intro/architecture.svg)
+![Architecture](architecture.svg)
 
 ## We will:
 * Deploy AWS CloudFormation stack to set up prerequisites. 
